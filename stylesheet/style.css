@@ -899,14 +899,14 @@ h6 a {
     color: #11161e; }
   .section-about .intro-content p.text {
     font-family: 'Open Sans', sans-serif;
-    font-size: 14px;
+    font-size: 15px;
     font-weight: 400;
     line-height: 1.75em;
-    color: #777777;
+    color: #111111;
     padding-right: 75px;
     padding-top: 16px;
     padding-bottom: 24px;
-    color: #777777; }
+    color: #131111; }
 .section-about .image-about {
   text-align: end; }
 .section-about .image-about.style-2 {
